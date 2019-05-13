@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Selection Sort: O(n^2)
+
 int main(void)
 {
 	int i, j, min, index, temp;
